@@ -1,0 +1,53 @@
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe.config
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\bin\Debug\American Internationa College.pdb
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csprojAssemblyReference.cache
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Form1.resources
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Properties.Resources.resources
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csproj.GenerateResource.cache
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.exe
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.pdb
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.RegistrationForm.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe.config
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\bin\Debug\American Internationa College.pdb
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csprojAssemblyReference.cache
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Form1.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Properties.Resources.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.RegistrationForm.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csproj.GenerateResource.cache
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American Internationa College.exe
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American Internationa College.pdb
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Admin.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Admission.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.StudentStatus.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.TeacherStatus.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Teacher.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.UploadMarks.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.ApplyTc.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.CheckMarks.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Attendance.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.PrincipalStatus.resources
+C:\Users\User\Desktop\American Internationa College\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.TCApplicants.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe.config
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\bin\Debug\American Internationa College.pdb
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csprojAssemblyReference.cache
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Admin.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Admission.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.ApplyTc.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Attendance.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.CheckMarks.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Form1.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.PrincipalStatus.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Properties.Resources.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.RegistrationForm.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.StudentStatus.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.TCApplicants.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Teacher.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.TeacherStatus.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.UploadMarks.resources
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csproj.GenerateResource.cache
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American Internationa College.exe
+C:\Users\Asif\Academic Projects\C# .net\College Management System\American Internationa College\American Internationa College\obj\Debug\American Internationa College.pdb
